@@ -1,0 +1,3 @@
+DET NP N ADJ N VD N DET N P NP 
+ADJ N N VD `` DET N '' CNJ DET 
+N VD N .
